@@ -1,0 +1,2 @@
+luu,2.0,Janne,eläimet
+patukka,5.0,Leevi,makeiset
